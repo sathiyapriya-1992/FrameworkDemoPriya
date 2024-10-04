@@ -3,8 +3,8 @@ package organizationTests;
 public class ToCreateOrganization {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		System.out.println("Me vijay added organization scripts");
 	}
 
 }
